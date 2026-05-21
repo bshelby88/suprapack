@@ -1,0 +1,21 @@
+{
+  "vault_root": "/home/sprit/suprapack/vault",
+  "skill_count": 588,
+  "by_category": {
+    "ai-agent": 30,
+    "automation": 222,
+    "dev": 152,
+    "marketing": 81,
+    "design": 40,
+    "data": 20,
+    "research": 4,
+    "writing": 1,
+    "productivity": 0,
+    "finance": 29,
+    "security": 2,
+    "google-workspace": 0,
+    "persona": 0,
+    "misc": 7
+  },
+  "generated": "2026-04-30"
+}
